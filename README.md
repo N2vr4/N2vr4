@@ -28,16 +28,6 @@
   <hr>
   <br>
 
-  <!-- Statistics -->
-  <h2>Statistics</h2>
-  <br>
-  <!-- Generates a live line graph mimicking the image provided -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N2vr4&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph"/>
-
-  <br><br>
-  <hr>
-  <br>
-
   <!-- About Me -->
   <h2>About Me</h2>
   <br>
@@ -49,8 +39,7 @@
       </td>
       <td width="70%" align="center">
         Hello! I am exploring the depths of Data Science and Machine Learning. Currently, I am pursuing a degree in <b>Data Science at Sabaragamuwa University of Sri Lanka</b>. <br><br>
-        I am passionate about building <b>AI models, predictive analytics, and process automation</b>. Always open to discussing Python, Data Analytics, and AI/ML.<br><br>
-        <i>Popular Repository:</i> <a href="https://github.com/N2vr4/intelligent-mcp-tool-retrieval"><b>intelligent-mcp-tool-retrieval</b></a>
+        I am passionate about building <b>AI models, predictive analytics, and process automation</b>. Always open to discussing Python, Data Analytics, and AI/ML.
       </td>
     </tr>
   </table>
