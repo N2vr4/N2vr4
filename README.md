@@ -1,4 +1,4 @@
-<img src="./portrait.png.jfif" align="right" width="260" style="margin-left: 25px; border-radius: 10px; border: 0px solid #005f73;" alt="Cyber Portrait">
+<img src="./portrait.png.jfif" align="right" width="260" style="margin-left: 25px; border-radius: 10px;" alt="Cyber Portrait">
 
 ## About Me
 
