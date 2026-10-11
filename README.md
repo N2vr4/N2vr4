@@ -7,7 +7,7 @@
 
 <br>
 
-<!-- About Me & Visual Table with Spiderweb Network Animation -->
+<!-- About Me & Visual Table with Locally Hosted Orange Plexus Spiderweb -->
 <table width="100%" align="center">
   <tr>
     <td width="60%">
@@ -23,8 +23,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- 100% Working Tenor Network GIF -->
-      <img src="https://media.tenor.com/4qCsDFUGEG0AAAAC/plexus-network.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
+      <!-- Unbreakable Orange Plexus / Spiderweb locally hosted image -->
+      <img src="./plexus.png" width="95%" style="border-radius: 10px; border: 1px solid #FF9900;" alt="Orange Spiderweb Network">
     </td>
   </tr>
 </table>
