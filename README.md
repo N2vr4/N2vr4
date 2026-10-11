@@ -7,7 +7,7 @@
 
 <br>
 
-<!-- About Me & Visual Table with Locally Hosted Orange Plexus Spiderweb -->
+<!-- About Me & Visual Table with Spiderweb Network Animation (GIF) -->
 <table width="100%" align="center">
   <tr>
     <td width="60%">
@@ -23,8 +23,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Unbreakable Orange Plexus / Spiderweb locally hosted image -->
-      <img src="./plexus.png" width="95%" style="border-radius: 10px; border: 1px solid #FF9900;" alt="Orange Spiderweb Network">
+      <!-- 100% Working Tenor Network GIF -->
+      <img src="https://media.tenor.com/4qCsDFUGEG0AAAAC/plexus-network.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
     </td>
   </tr>
 </table>
@@ -35,6 +35,14 @@
 <div align="center">
   <h3>Tech Stack & Tools</h3>
   <img src="https://skillicons.dev/icons?i=py,r,tensorflow,scikit,pandas,numpy,git,github,mysql,vscode,linux,html,css,js&perline=14" alt="Tech Stack" />
+</div>
+
+<br>
+
+<!-- Dynamic GitHub Activity Graph (Orange & Black Theme) -->
+<div align="center">
+  <h3>Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N2vr4&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
