@@ -8,6 +8,6 @@ I am deeply passionate about building AI models, predictive analytics, and proce
 
 I am always open to discussing Python, Data Analytics, and AI/ML.
 
-$\color{red}{\textbf{Fact:}\text{ We cook data until it confesses.}}$
+$\color{#C8102E}{\textbf{Fact:}\text{ We cook data until it confesses.}}$
 
 <br clear="all"/>
