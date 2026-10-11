@@ -23,8 +23,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Fixed High-Quality Spiderweb (Plexus Network) GIF Effect -->
-      <img src="https://i.pinimg.com/originals/a0/0f/50/a00f50868f7079c6d3bc01b52c00224d.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
+      <!-- 100% Working Tenor Network GIF -->
+      <img src="https://media.tenor.com/4qCsDFUGEG0AAAAC/plexus-network.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
     </td>
   </tr>
 </table>
