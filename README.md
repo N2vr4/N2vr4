@@ -23,8 +23,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- High-Quality Spiderweb (Plexus Network) GIF Effect -->
-      <img src="https://media.giphy.com/media/l41lW1hJEVzG2qCJa/giphy.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
+      <!-- Fixed High-Quality Spiderweb (Plexus Network) GIF Effect -->
+      <img src="https://i.pinimg.com/originals/a0/0f/50/a00f50868f7079c6d3bc01b52c00224d.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
     </td>
   </tr>
 </table>
@@ -35,14 +35,6 @@
 <div align="center">
   <h3>Tech Stack & Tools</h3>
   <img src="https://skillicons.dev/icons?i=py,r,tensorflow,scikit,pandas,numpy,git,github,mysql,vscode,linux,html,css,js&perline=14" alt="Tech Stack" />
-</div>
-
-<br>
-
-<!-- Top Languages Card (Orange & Black Theme) -->
-<div align="center">
-  <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N2vr4&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br>
@@ -59,8 +51,6 @@
 <!-- Professional Contact Badges (Black Background, Orange Icons) -->
 <div align="center">
   <h3>Connect With Me</h3>
-  <!-- පහත YOUR_LINKEDIN_LINK යන තැනට ඔබගේ ලින්ක් එක දෙන්න -->
   <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF9900" alt="LinkedIn"/></a>
-  <!-- පහත YOUR_EMAIL යන තැනට ඔබගේ Email ලිපිනය දෙන්න -->
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF9900" alt="Gmail"/></a>
 </div>
