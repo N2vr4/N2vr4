@@ -7,7 +7,7 @@
 
 <br>
 
-<!-- About Me & Visual Table -->
+<!-- About Me & Visual Table with Spiderweb Network Animation -->
 <table width="100%" align="center">
   <tr>
     <td width="60%">
@@ -23,8 +23,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Minimalist Dark Aesthetic Graphic -->
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 10px;" alt="Data Science Aesthetic">
+      <!-- High-Quality Spiderweb (Plexus Network) GIF Effect -->
+      <img src="https://media.giphy.com/media/l41lW1hJEVzG2qCJa/giphy.gif" width="90%" style="border-radius: 10px;" alt="Spiderweb Network Aesthetic">
     </td>
   </tr>
 </table>
@@ -39,10 +39,10 @@
 
 <br>
 
-<!-- Dynamic GitHub Activity Graph (Orange & Black Theme) -->
+<!-- Top Languages Card (Orange & Black Theme) -->
 <div align="center">
-  <h3>Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N2vr4&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <h3>Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N2vr4&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br>
@@ -59,6 +59,8 @@
 <!-- Professional Contact Badges (Black Background, Orange Icons) -->
 <div align="center">
   <h3>Connect With Me</h3>
+  <!-- පහත YOUR_LINKEDIN_LINK යන තැනට ඔබගේ ලින්ක් එක දෙන්න -->
   <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF9900" alt="LinkedIn"/></a>
+  <!-- පහත YOUR_EMAIL යන තැනට ඔබගේ Email ලිපිනය දෙන්න -->
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF9900" alt="Gmail"/></a>
 </div>
