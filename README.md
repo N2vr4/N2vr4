@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Sleek Header with Orange Typing Animation -->
+<div align="center">
+  <a href="https://github.com/N2vr4">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Namaste;I'm+Uditha+Induwara;Data+Scientist+|+AI+Enthusiast;We+Cook+Data+Here" alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**N2vr4/N2vr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!-- About Me & Visual Table -->
+<table width="100%" align="center">
+  <tr>
+    <td width="60%">
+      <h2>About Me</h2>
+      <ul>
+        <li>Exploring the depths of Data Science and Machine Learning.</li>
+        <li>Currently pursuing a degree in Data Science at Sabaragamuwa University of Sri Lanka.</li>
+        <li>Passionate about building AI models, predictive analytics, and process automation.</li>
+        <li>Check out my repositories for my latest data-driven projects.</li>
+        <li>Always open to discussing Python, Data Analytics, and AI/ML.</li>
+        <br>
+        <li><b>Fact:</b> We cook data until it confesses.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Minimalist Dark Aesthetic Graphic -->
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 10px;" alt="Data Science Aesthetic">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- Tech Stack / Skills -->
+<div align="center">
+  <h3>Tech Stack & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=py,r,tensorflow,scikit,pandas,numpy,git,github,mysql,vscode,linux,html,css,js&perline=14" alt="Tech Stack" />
+</div>
+
+<br>
+
+<!-- Dynamic GitHub Activity Graph (Orange & Black Theme) -->
+<div align="center">
+  <h3>Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N2vr4&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<!-- GitHub Analytics (Stats & Streak - Orange & Black Theme) -->
+<div align="center">
+  <h3>GitHub Analytics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=N2vr4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N2vr4&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&currStreakLabel=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- Professional Contact Badges (Black Background, Orange Icons) -->
+<div align="center">
+  <h3>Connect With Me</h3>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF9900" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF9900" alt="Gmail"/></a>
+</div>
