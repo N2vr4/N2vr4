@@ -8,6 +8,6 @@ I am deeply passionate about building AI models, predictive analytics, and proce
 
 I am always open to discussing Python, Data Analytics, and AI/ML.
 
-<span style="color: red;"><b>Fact:</b> We cook data until it confesses.</span>
+<style="color: red;"><b>Fact:</b> We cook data until it confesses.</style>
 
 <br clear="all"/>
